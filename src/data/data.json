@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "InnoTech Labs",
+    "skills": ["html", "css", "react"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "BrightPath Solutions",
+    "skills": ["figma", "ui", "ux"],
+    "accessNeed": "big text",
+    "location": "Chennai",
+    "jobType": "Hybrid"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "SparkNest Technologies",
+    "skills": ["nodejs", "express", "mongodb"],
+    "accessNeed": "remote work",
+    "location": "Bangalore",
+    "jobType": "Remote"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "NeuroLink Tech",
+    "skills": ["python", "ml", "tensorflow"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "BlueOrbit Analytics",
+    "skills": ["excel", "powerbi", "python"],
+    "accessNeed": "wheelchair access",
+    "location": "Hyderabad",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "QA Tester",
+    "company": "NextGen Creations",
+    "skills": ["testing", "selenium", "automation"],
+    "accessNeed": "screen reader",
+    "location": "Pune",
+    "jobType": "Hybrid"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "UrbanCode Factory",
+    "skills": ["html", "css", "react", "nodejs"],
+    "accessNeed": "wheelchair access",
+    "location": "Chennai",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "Android Developer",
+    "company": "SkyBridge Innovations",
+    "skills": ["kotlin", "android studio"],
+    "accessNeed": "big text",
+    "location": "Noida",
+    "jobType": "Hybrid"
+  },
+  {
+    "title": "iOS Developer",
+    "company": "MindWave Software",
+    "skills": ["swift", "xcode"],
+    "accessNeed": "remote work",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "RapidStack Technologies",
+    "skills": ["docker", "kubernetes", "aws"],
+    "accessNeed": "remote work",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Visionary Coders",
+    "skills": ["networking", "security", "linux"],
+    "accessNeed": "big text",
+    "location": "Chennai",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "AlphaCore Analytics",
+    "skills": ["aws", "azure", "cloud"],
+    "accessNeed": "remote work",
+    "location": "Hyderabad",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Database Administrator",
+    "company": "DigitalPulse Innovations",
+    "skills": ["mysql", "postgres", "sql"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "PixelForge Studio",
+    "skills": ["photoshop", "illustrator"],
+    "accessNeed": "big text",
+    "location": "Mumbai",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "TalentBridge HR",
+    "skills": ["communication", "excel"],
+    "accessNeed": "remote work",
+    "location": "Chennai",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Content Writer",
+    "company": "Creative Hive Studios",
+    "skills": ["writing", "seo", "editing"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Technical Support",
+    "company": "ProFuture Labs",
+    "skills": ["support", "troubleshooting"],
+    "accessNeed": "wheelchair access",
+    "location": "Mumbai",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "company": "GreenEra Solutions",
+    "skills": ["seo", "ads", "analytics"],
+    "accessNeed": "remote work",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Sales Executive",
+    "company": "DreamCraft Software",
+    "skills": ["sales", "communication"],
+    "accessNeed": "big text",
+    "location": "Bangalore",
+    "jobType": "Hybrid"
+  },
+  {
+    "title": "React Developer",
+    "company": "ByteBloom Systems",
+    "skills": ["react", "javascript", "css"],
+    "accessNeed": "remote work",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Insightify Solutions",
+    "skills": ["python", "django"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Urban Cloud Networks",
+    "skills": ["java", "spring"],
+    "accessNeed": "big text",
+    "location": "Pune",
+    "jobType": "Hybrid"
+  },
+  {
+    "title": "Flutter Developer",
+    "company": "LiftUp Careers",
+    "skills": ["flutter", "dart"],
+    "accessNeed": "wheelchair access",
+    "location": "Chennai",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "SEO Analyst",
+    "company": "DigitalNest India",
+    "skills": ["seo", "analytics"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Virtual Assistant",
+    "company": "Assistify Global",
+    "skills": ["email", "excel"],
+    "accessNeed": "remote work",
+    "location": "Remote",
+    "jobType": "Remote"
+  },
+  {
+    "title": "HR Assistant",
+    "company": "FreshPeak HR",
+    "skills": ["communication"],
+    "accessNeed": "wheelchair access",
+    "location": "Delhi",
+    "jobType": "On-Site"
+  },
+  {
+    "title": "Game Developer",
+    "company": "FunBox Studios",
+    "skills": ["unity", "c#"],
+    "accessNeed": "big text",
+    "location": "Mumbai",
+    "jobType": "Hybrid"
+  },
+  {
+    "title": "Video Editor",
+    "company": "CineCraft Digital",
+    "skills": ["premiere", "editing"],
+    "accessNeed": "big text",
+    "location": "Chennai",
+    "jobType": "Remote"
+  },
+  {
+    "title": "Accessibility Tester",
+    "company": "BlindAssist Innovations",
+    "skills": ["testing", "accessibility"],
+    "accessNeed": "screen reader",
+    "location": "Remote",
+    "jobType": "Remote"
+  }
+]
