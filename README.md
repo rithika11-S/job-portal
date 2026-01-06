@@ -1,13 +1,13 @@
 <h1 style="font-family: 'Arial Black', sans-serif; color:#1F618D;">
-Project: Echohier 
+Project: Echohire
 </h1>
 
 <p style="font-family: 'Verdana', sans-serif; font-size:16px;">
 This project is an AI-enabled **Job Portal built specifically for visually impaired users**.  
 It integrates **screen reader accessibility** and **voice-to-text recognition** so that users can navigate, search, and apply for jobs using **speech commands and audio feedback**, making job seeking more inclusive and independent.
 </p>
+<img width="9000" height="500" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/e0d8def0-27cf-47c0-bf54-3663c25e0e66" />
 
-<img width="9000" height="500" alt="Accessible Job Portal Screenshot" src="YOUR_IMAGE_LINK_HERE" />
 
 <p style="font-family: 'Verdana', sans-serif; font-size:16px;">
 A visually impaired user can interact with the platform using voice and audio, where they can:
