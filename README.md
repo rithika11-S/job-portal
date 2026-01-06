@@ -107,7 +107,7 @@ License & Terms
 </h2>
 
 <p style="font-family: 'Verdana', sans-serif; font-size:16px;">
-Copyright (C) — Your Name / Organization<br>
+Copyright (C) — Rithika S<br>
 Licensed under the <b>MIT License</b>.<br>
 This project is intended for educational and community-driven accessibility enhancement purposes.
 </p>
